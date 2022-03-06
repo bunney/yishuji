@@ -1,0 +1,6 @@
+miniprogram_npm
+node_modules
+.vscode
+
+yarn-error.lock
+yarn.lock
